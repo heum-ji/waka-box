@@ -16,4 +16,4 @@ jobs:
           GIST_ID: a583f25361fb84d8ee230437eb84230d
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIMEZONE: Asia/Seoul
-a
+
